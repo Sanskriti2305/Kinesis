@@ -1,0 +1,13 @@
+{
+  "name": "kinesis-gesture-bridge",
+  "private": true,
+  "version": "1.0.0",
+  "description": "UDP-to-WebSocket relay: forwards hand_tracker.py's gesture packets to the Kinesis React app. Does not modify or replace the Unity Phase 1 receiver.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
