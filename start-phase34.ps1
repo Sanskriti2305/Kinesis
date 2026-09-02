@@ -1,0 +1,6 @@
+Write-Host "KINESIS Phase 3 + 4"
+Write-Host "Open 3 terminals and run:"
+Write-Host "1) cd bridge; npm install; npm start"
+Write-Host "2) cd Hand_tracking; pip install -r ../requirements.txt; python hand_tracker.py"
+Write-Host "3) cd ai; node server.js"
+Write-Host "Then run 'npm install; npm run dev' in this folder."
