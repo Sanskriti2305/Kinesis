@@ -1,0 +1,7 @@
+Write-Host "KINESIS - Phase 1 through Phase 6"
+Write-Host "1) In Phase4: npm install"
+Write-Host "2) In Phase4: npm run dev"
+Write-Host "   This automatically starts the AI service, collaboration server, and gesture relay."
+Write-Host "3) In another terminal: cd Hand_tracking; python hand_tracker.py"
+Write-Host "4) Open the Vite URL and test Load Sample Assembly, AI, simulation, gestures, and collaboration."
+Write-Host "Phase1 is kept separately under the repository root and is not modified by the web workspace."

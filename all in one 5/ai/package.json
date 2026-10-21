@@ -1,0 +1,9 @@
+{
+  "name": "kinesis-ai-service",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs"
+}
